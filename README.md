@@ -1,6 +1,6 @@
 ![Banner de Alberto Armas, Fullstack Developer.](https://github.com/AlbertoDesastre/AlbertoDesastre/blob/main/assets/fullstackdeveloper_banner.png?raw=true)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&pause=1000&color=5084E7&center=true&width=1080&lines=Fullstack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=48&pause=1000&color=5084E7&center=true&width=1000&height=100&lines=Fullstack+Developer" alt="Typing SVG" /></a>
 
 ¡Hola! Me llamo Alberto y soy Desarrollador Fullstack. Me especializo en React y Nest.js, le dedico la mayor parte del día a estudiar y crear proyectos nuevos. Sigo las mejores prácticas de la industria a día de hoy (Testing, SOLID, Clean Code, Dry, Patrones de Diseño) y me mantengo al día de las nuevas tecnologías.
 
